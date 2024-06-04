@@ -1,2 +1,2 @@
 # ELT-Pipeline
-Building ELT pipeline using DBT, Snowflake and Airflow. 
+ELT pipeline using DBT, Snowflake and Airflow. 
